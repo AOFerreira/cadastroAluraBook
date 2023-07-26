@@ -1,9 +1,9 @@
-<p align="center"> <img src="https://imgur.com/KXUnUsg.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
+## Tela Cadastro ALura Books
 
-<hr>
-
-<p align="center"> <img src="https://github.com/MonicaHillman/js-consumindo-dados-api/blob/aula05/img/Logo.svg" alt="Logo da alura books"> </p>
 <p align="center">Um formulário de cadastro da plataforma AluraBooks, uma livraria on-line que vende livros técnicos. Nesse formulário implementamos o auto preenchimento de informações do endereço através do valor do CEP inserido pelo usuário.</p>
+
+![telaCadastro](https://github.com/AOFerreira/cadastroAluraBook/assets/19846612/5468121d-628e-4091-9f3b-3cc457ff2453)
+
 
 ## Tecnologias utilizadas durante o curso
 * Javascript
